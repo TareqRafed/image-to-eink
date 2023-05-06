@@ -1,4 +1,4 @@
-## WS E-ink 7.5inch V2 NodeJS driver
+## WS E-ink 7.5inch V2 NodeJS Image Proccessor
 
 Based on their Wi-Fi Loader DEMO, this code was extracted, refactored to support TS NodeJS.
 
